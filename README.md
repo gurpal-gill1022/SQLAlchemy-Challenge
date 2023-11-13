@@ -1,6 +1,6 @@
 # SQLAlchemy-Challenge
  
-# Project Description
+## Project Description
 
 This project consists of solving the following problem(s):
 - To plan a holiday vacation to Honolulu, Hawaii
@@ -11,7 +11,7 @@ The tasks for this project include:
 - Station Analysis
 - Designing a Climate App using Flask API based on the analyses 
 
-# Questions for Analysis:
+## Questions for Analysis:
 Precipitation Analysis:
 1. Find the most recent date in the dataset.
 
@@ -66,7 +66,7 @@ Design Climate App:
 - For a specified start, calculate TMIN, TAVG, and TMAX for all the dates greater than or equal to the start date.
 - For a specified start date and end date, calculate TMIN, TAVG, and TMAX for the dates from the start date to the end date, inclusive.
 
-# Files
+## Files
 1. Resources
 - hawaii sqlite file
 - hawaii_measurements csv file
@@ -75,3 +75,16 @@ Design Climate App:
 2. SurfsUp
 - app.py python file
 - climate_starter jupyter notebook file
+
+## Dependencies
+1. matplotlib
+2. pyplot
+3. numpy
+4. pandas
+5. datetime
+6. sqlalchemy
+
+## Programs/Languages
+1. Python
+2. Jupyter Notebook
+3. Flask
